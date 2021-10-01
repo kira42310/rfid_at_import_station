@@ -1,0 +1,1 @@
+ACTION=="add",KERNEL=="ttyUSB0",MODE="0666"
